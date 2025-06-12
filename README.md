@@ -7,7 +7,6 @@ The website includes a navigation bar, carousel, card components, and footer –
 
 While working on iCoder, I also learned how to customize default Bootstrap styles, structure reusable components, and improve readability and responsiveness. I also made sure the website performs well on various screen sizes, including mobile, tablet, and desktop.
 
-      The main aim of creating this project was to practice and enhance my front-end development skills. While the concept is classic, the experience of building it from scratch helped me understand how Bootstrap simplifies responsive design and layout structuring. I learned how to use Bootstrap’s grid system, how to align and organize content, and how to work with utility classes to style components effectively.
 
 🌟 Features
 Responsive Navigation Bar
